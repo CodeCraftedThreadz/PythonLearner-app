@@ -1,0 +1,5 @@
+{
+  "name": "PyTutor AI",
+  "description": "An interactive, AI-powered Python learning platform for beginners. Features interactive code execution simulation, progress tracking, and comprehensive curriculum from basics to AI concepts.",
+  "requestFramePermissions": []
+}
